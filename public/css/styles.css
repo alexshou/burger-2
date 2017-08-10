@@ -33,3 +33,27 @@ input.new-item:focus {
 .edit {
   width: 100%;
 }
+
+h1{
+  text-align: center;
+  margin: 30px;
+  color: red;
+  font: bold 30px;
+}
+
+.burger-container, .burger-devoured {
+  margin: 30px;
+}
+
+body{
+  background: yellow;
+}
+
+.burger-list{
+  font-weight: bold;
+}
+
+
+li, ul{
+  background: #37adad;
+}
